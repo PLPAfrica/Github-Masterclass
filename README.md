@@ -4,7 +4,7 @@ Lesson Plan:
 
 Introduction (5 minutes)
 
-Welcome the students and explain the importance of a professional GitHub profile in the tech industry.
+- [ ] Welcome the students and explain the importance of a professional GitHub profile in the tech industry.
 
 Getting Started (15 minutes)
 
